@@ -1,6 +1,6 @@
 //about.js
 import React, { Component } from 'react';
-import './index.css';
+import './index.sass';
 export default class About extends Component {
   render() {
     return (
